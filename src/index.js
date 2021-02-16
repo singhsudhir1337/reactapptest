@@ -4,9 +4,6 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
-const img = "https://picsum.photos/200/300";
-const img1 = "https://picsum.photos/250/300";
-const img2 = "https://picsum.photos/150/300";
 
 ReactDOM.render(
 	<>
